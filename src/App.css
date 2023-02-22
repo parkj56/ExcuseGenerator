@@ -13,8 +13,14 @@
 body {
   
 background: linear-gradient(#64e6db, #bbe591);
-
+background-repeat: no-repeat;
+background-attachment: fixed;
   
 }
 
+@media screen and (max-width: 400px) {
+  img {
+    max-width: 390px;
+  }
+}
 
