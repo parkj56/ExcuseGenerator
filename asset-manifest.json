@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%3Cparkj56%3E.github.io/%3CExcuseGenerator%3E/static/css/main.0beaed1a.css",
+    "main.js": "/%3Cparkj56%3E.github.io/%3CExcuseGenerator%3E/static/js/main.edeccd60.js",
+    "index.html": "/%3Cparkj56%3E.github.io/%3CExcuseGenerator%3E/index.html",
+    "main.0beaed1a.css.map": "/%3Cparkj56%3E.github.io/%3CExcuseGenerator%3E/static/css/main.0beaed1a.css.map",
+    "main.edeccd60.js.map": "/%3Cparkj56%3E.github.io/%3CExcuseGenerator%3E/static/js/main.edeccd60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0beaed1a.css",
+    "static/js/main.edeccd60.js"
+  ]
+}
